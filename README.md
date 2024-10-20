@@ -77,3 +77,21 @@ Jawaban:
 Ditambahkan validasi dan endpoint ununtk pencarian buku
 
 
+1. Tambahkan Validasi
+![Gambar](image-17.png)
+
+2. Endpoint baru(Pencarian Buku Berdasarkan Kategori atau Judul)
+di Tambahkan fungsi baru search
+![Gambar](image-18.png)
+
+3. Uji Api Secara Publik Menggunakan Ngrok
+dalam menngunakan ngrok saya masaih belum terlalu paham dan eror terus
+ ![Gambar](<Screenshot 2024-10-21 003842.png>)
+
+4.  Uji Api dengan menggunakan Postman & Chrome
+GET
+![Gambar](image-19.png)
+POST
+![GAmbar](image-20.png)
+Chrome
+![Gambar](image-21.png)
