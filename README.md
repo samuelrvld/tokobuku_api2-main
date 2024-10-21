@@ -85,8 +85,8 @@ di Tambahkan fungsi baru search
 ![Gambar](image-18.png)
 
 3. Uji Api Secara Publik Menggunakan Ngrok
-dalam menngunakan ngrok saya masaih belum terlalu paham dan eror terus
- ![Gambar](<Screenshot 2024-10-21 003842.png>)
+
+ ![Gambar](image-22.png)
 
 4.  Uji Api dengan menggunakan Postman & Chrome
 GET
